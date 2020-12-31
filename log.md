@@ -287,3 +287,13 @@ J'ai compris maintenant l'utilité de faire des requêtes serveur asynchrones !
 **Lien(s) utile(s)** :
 
 - [11ty - layout chaining](https://www.11ty.dev/docs/layout-chaining/)
+
+### Jour 27: mercredi 30 décembre 2020
+
+**Progrès** : Avoir terminé l'API de mon projet de l'authentification
+
+**Pensées** : Il faut maintenant faire le frontend
+
+**Lien(s) utile(s)** :
+
+- [JWT Authentification & Authorization in NodeJs/Express & MongoDB REST APIs(2019)](https://medium.com/swlh/jwt-authentication-authorization-in-nodejs-express-mongodb-rest-apis-2019-ad14ec818122)
