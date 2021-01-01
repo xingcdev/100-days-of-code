@@ -297,3 +297,15 @@ J'ai compris maintenant l'utilité de faire des requêtes serveur asynchrones !
 **Lien(s) utile(s)** :
 
 - [JWT Authentification & Authorization in NodeJs/Express & MongoDB REST APIs(2019)](https://medium.com/swlh/jwt-authentication-authorization-in-nodejs-express-mongodb-rest-apis-2019-ad14ec818122)
+
+### Jour 28: vendredi 1 janvier 2021
+
+**Progrès** : Avancement de mon projet de l'authentification, faire la vue login
+
+**Pensées** : J'ai découvert Ejs, un moteur de vue
+
+**Lien(s) utile(s)** :
+
+- [Node.js With Passport Authentication | Full Project](https://www.youtube.com/watch?v=6FOq4cUdH8k)
+
+- [25 CSS Login / Registration Forms](https://freefrontend.com/css-login-forms/)
