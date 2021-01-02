@@ -309,3 +309,15 @@ J'ai compris maintenant l'utilité de faire des requêtes serveur asynchrones !
 - [Node.js With Passport Authentication | Full Project](https://www.youtube.com/watch?v=6FOq4cUdH8k)
 
 - [25 CSS Login / Registration Forms](https://freefrontend.com/css-login-forms/)
+
+### Jour 29 : samedi 02.01.2021
+
+**Progrès** : Déployement de mon premier site blog sur l'hébergeur Vercel. Le site est fait avec un template de Gatsby
+
+**Pensées** :
+
+**Lien(s) utile(s)** :
+
+- [Gatsby](https://www.gatsbyjs.com/)
+
+- [Vercel](https://vercel.com/)
