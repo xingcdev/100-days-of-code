@@ -321,3 +321,14 @@ J'ai compris maintenant l'utilité de faire des requêtes serveur asynchrones !
 - [Gatsby](https://www.gatsbyjs.com/)
 
 - [Vercel](https://vercel.com/)
+
+### Jour 30 : dimanche 03.01.2021
+
+**Progrès** : Changer la taille du logo de mon site blog en 200 \* 200
+Regarder un tutoriel sur Gatsby pour comprendre le rôle de chaque fichier
+
+**Pensées** :
+
+**Lien(s) utile(s)** :
+
+- [Learn Gatsby: How to Build Your First Gatsby Blog](https://www.youtube.com/watch?v=xJVHWhO9bJY)
