@@ -332,3 +332,15 @@ Regarder un tutoriel sur Gatsby pour comprendre le rôle de chaque fichier
 **Lien(s) utile(s)** :
 
 - [Learn Gatsby: How to Build Your First Gatsby Blog](https://www.youtube.com/watch?v=xJVHWhO9bJY)
+
+### Jour 31 : mardi 05.01.2021
+
+**Progrès** : Création d'un composant "Banner" sur mon site blog
+
+**Pensées** :
+
+**Lien(s) utile(s)** :
+
+- [Creating Nested Layout Components](https://www.gatsbyjs.com/docs/tutorial/part-three/)
+
+- [Set Background Image in React.js Using inline Style CSS](https://holycoders.com/set-background-image-react-js/)
