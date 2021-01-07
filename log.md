@@ -344,3 +344,15 @@ Regarder un tutoriel sur Gatsby pour comprendre le rôle de chaque fichier
 - [Creating Nested Layout Components](https://www.gatsbyjs.com/docs/tutorial/part-three/)
 
 - [Set Background Image in React.js Using inline Style CSS](https://holycoders.com/set-background-image-react-js/)
+
+### Jour 32 : jeudi 07.01.2021
+
+**Progrès** : Création de la bannière de la page d'accueil de mon blog
+
+**Pensées** : Le chemin relatif des images ne marche jamais dans Gatsby... J'ai fini par importer l'élement image directement avec `const image = require(../assets/image.png)`
+
+**Lien(s) utile(s)** :
+
+- [Introduction to Styling in Gatsby](https://www.gatsbyjs.com/docs/tutorial/part-two/)
+
+- [Your name gif](https://media.giphy.com/media/nWPLGmsjvdQ4g/giphy.gif)
