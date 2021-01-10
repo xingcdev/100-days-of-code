@@ -364,3 +364,13 @@ Regarder un tutoriel sur Gatsby pour comprendre le rôle de chaque fichier
 **Pensées** :
 
 **Lien(s) utile(s)** :
+
+### Jour 34 : dimanche 09.01.2021
+
+**Progrès** : Création de la page propos en cours sur mon site blog, manipulation de l'API GraphQL.
+
+**Pensées** : J'ai appris que GraphQL sert à pousser les données externes dans les composants React. Génial.
+
+**Lien(s) utile(s)** :
+
+- [Data in Gatsby](https://www.gatsbyjs.com/docs/tutorial/part-four/)
