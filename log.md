@@ -356,3 +356,11 @@ Regarder un tutoriel sur Gatsby pour comprendre le rôle de chaque fichier
 - [Introduction to Styling in Gatsby](https://www.gatsbyjs.com/docs/tutorial/part-two/)
 
 - [Your name gif](https://media.giphy.com/media/nWPLGmsjvdQ4g/giphy.gif)
+
+### Jour 33 : vendredi 08.01.2021
+
+**Progrès** : Création de l'en-tête header de mon site blog
+
+**Pensées** :
+
+**Lien(s) utile(s)** :
