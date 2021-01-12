@@ -374,3 +374,13 @@ Regarder un tutoriel sur Gatsby pour comprendre le rôle de chaque fichier
 **Lien(s) utile(s)** :
 
 - [Data in Gatsby](https://www.gatsbyjs.com/docs/tutorial/part-four/)
+
+### Jour 35: mardi 12.01.2021
+
+**Progrès** : Avancement de mon projet de l'authentification
+
+**Pensées** : Je sais pas comment passer le nom de l'utilisateur sur la page de dashboard. Dans la vidéo, c'est automatique avec le package `passport`. Dans mon projet je ne l'utilise pas.
+
+**Lien(s) utile(s)** :
+
+- [Node.js With Passport Authentication | Full Project](https://www.youtube.com/watch?v=6FOq4cUdH8k)
