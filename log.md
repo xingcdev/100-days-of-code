@@ -384,3 +384,13 @@ Regarder un tutoriel sur Gatsby pour comprendre le rôle de chaque fichier
 **Lien(s) utile(s)** :
 
 - [Node.js With Passport Authentication | Full Project](https://www.youtube.com/watch?v=6FOq4cUdH8k)
+
+### Jour 36 : vendredi 15.01.2021
+
+**Progrès** : Création d'un petit script Bash pour générer un fichier markdown, qui est fait pour écrire un article sur mon blog
+
+**Pensées** :
+
+**Lien(s) utile(s)** :
+
+- [How to Create and Use Bash Scripts](https://www.taniarascia.com/how-to-create-and-use-bash-scripts/)
