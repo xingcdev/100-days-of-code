@@ -394,3 +394,11 @@ Regarder un tutoriel sur Gatsby pour comprendre le rôle de chaque fichier
 **Lien(s) utile(s)** :
 
 - [How to Create and Use Bash Scripts](https://www.taniarascia.com/how-to-create-and-use-bash-scripts/)
+
+### Jour 37 : samedi 16.01.2021
+
+**Progrès** : Avancement de mon site blog
+
+**Pensées** : J'ai pris 30 min à changer le title de page parce que je m'étais trompé de ligne ...
+
+**Lien(s) utile(s)** :
