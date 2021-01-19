@@ -403,7 +403,7 @@ Regarder un tutoriel sur Gatsby pour comprendre le rôle de chaque fichier
 
 **Lien(s) utile(s)** :
 
-### Jour 38 : lundio 18.01.2021
+### Jour 38 : lundi 18.01.2021
 
 **Progrès** : Création en cours d'un script Python pour télécharger les factures de Delivroo
 
@@ -412,5 +412,19 @@ Regarder un tutoriel sur Gatsby pour comprendre le rôle de chaque fichier
 **Lien(s) utile(s)** :
 
 - [How to “log in” to a website using Python's Requests module?](https://stackoverflow.com/a/17633072)
+
+- [Requests module quickstart](https://requests.readthedocs.io/en/latest/user/quickstart/)
+
+### Jour 39 : mardi 19.01.2021
+
+**Progrès** : Avancement de mon script Python pour télécharger les factures de Delivroo
+
+**Pensées** : Je n'arrive pas à avoir le lien de téléchargement des factures en PDF
+
+**Lien(s) utile(s)** :
+
+- [Dictionnaires en Python](https://courspython.com/dictionnaire.html)
+
+- [How to get JSON from webpage into Python script](https://stackoverflow.com/a/62930034)
 
 - [Requests module quickstart](https://requests.readthedocs.io/en/latest/user/quickstart/)
