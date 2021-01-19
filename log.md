@@ -402,3 +402,15 @@ Regarder un tutoriel sur Gatsby pour comprendre le rôle de chaque fichier
 **Pensées** : J'ai pris 30 min à changer le title de page parce que je m'étais trompé de ligne ...
 
 **Lien(s) utile(s)** :
+
+### Jour 38 : lundio 18.01.2021
+
+**Progrès** : Création en cours d'un script Python pour télécharger les factures de Delivroo
+
+**Pensées** : J'ai réussi à trouver la route API pour login
+
+**Lien(s) utile(s)** :
+
+- [How to “log in” to a website using Python's Requests module?](https://stackoverflow.com/a/17633072)
+
+- [Requests module quickstart](https://requests.readthedocs.io/en/latest/user/quickstart/)
