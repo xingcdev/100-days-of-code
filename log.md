@@ -405,7 +405,7 @@ Regarder un tutoriel sur Gatsby pour comprendre le rôle de chaque fichier
 
 ### Jour 38 : lundi 18.01.2021
 
-**Progrès** : Création en cours d'un script Python pour télécharger les factures de Delivroo
+**Progrès** : Création en cours d'un script Python pour télécharger les factures de Deliveroo
 
 **Pensées** : J'ai réussi à trouver la route API pour login
 
@@ -417,7 +417,7 @@ Regarder un tutoriel sur Gatsby pour comprendre le rôle de chaque fichier
 
 ### Jour 39 : mardi 19.01.2021
 
-**Progrès** : Avancement de mon script Python pour télécharger les factures de Delivroo
+**Progrès** : Avancement de mon script Python pour télécharger les factures de Deliveroo
 
 **Pensées** : Je n'arrive pas à avoir le lien de téléchargement des factures en PDF
 
