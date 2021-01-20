@@ -428,3 +428,17 @@ Regarder un tutoriel sur Gatsby pour comprendre le rôle de chaque fichier
 - [How to get JSON from webpage into Python script](https://stackoverflow.com/a/62930034)
 
 - [Requests module quickstart](https://requests.readthedocs.io/en/latest/user/quickstart/)
+
+### Jour 40 : mercredi 20.01.2021
+
+**Progrès** : Avancement de mon script Python pour télécharger les factures de Deliveroo
+
+**Pensées** : Après avoir passer une journée sur le Python, j'ai enfin réussi à télécharger les factures en PDF via l'API de Deliveroo. J'avais pas réussi car il fallait envoyer un cookie qui contient le token d'accès d'API... Mettre le token dans 'Authorization' de l'en-tête HTTP n'est pas suffisant!
+
+**Lien(s) utile(s)** :
+
+- [Python module Requests - Quickstart Cookies](https://fr.python-requests.org/en/latest/user/quickstart.html?#cookies)
+
+- [How do I scrape a website with a login page? Comment - Reddit](https://www.reddit.com/r/learnpython/comments/9zzfvl/how_do_i_scrape_a_website_with_a_login_page/eada95h?utm_source=share&utm_medium=web2x&context=3)
+
+- [Python Web Scraper Tutorial: Sessions, Requests, Cookies & JSON! - Youtube](https://www.youtube.com/watch?v=PpaCpudEh2o)
