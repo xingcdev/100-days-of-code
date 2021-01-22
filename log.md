@@ -450,3 +450,15 @@ Regarder un tutoriel sur Gatsby pour comprendre le rôle de chaque fichier
 **Pensées** :
 
 **Lien(s) utile(s)** :
+
+### Jour 42 : vendredi 22.01.2021
+
+**Progrès** : Avancement de mon script Python pour télécharger les factures de Deliveroo
+
+**Pensées** : J'ai commencé à faire le filtrage des factures selon l'année saisi par l'utilisateur
+
+**Lien(s) utile(s)** :
+
+- [How to filter a list in Python](https://www.kite.com/python/answers/how-to-filter-a-list-in-python)
+
+- [How to get the first 2 letters of a string in Python?](https://stackoverflow.com/questions/20988835/how-to-get-the-first-2-letters-of-a-string-in-python)
