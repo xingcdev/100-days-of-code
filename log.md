@@ -442,3 +442,11 @@ Regarder un tutoriel sur Gatsby pour comprendre le rôle de chaque fichier
 - [How do I scrape a website with a login page? Comment - Reddit](https://www.reddit.com/r/learnpython/comments/9zzfvl/how_do_i_scrape_a_website_with_a_login_page/eada95h?utm_source=share&utm_medium=web2x&context=3)
 
 - [Python Web Scraper Tutorial: Sessions, Requests, Cookies & JSON! - Youtube](https://www.youtube.com/watch?v=PpaCpudEh2o)
+
+### Jour 41 : jeudi 21.01.2021
+
+**Progrès** : Avancement de mon script Python pour télécharger les factures de Deliveroo
+
+**Pensées** :
+
+**Lien(s) utile(s)** :
