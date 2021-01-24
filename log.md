@@ -478,3 +478,5 @@ Regarder un tutoriel sur Gatsby pour comprendre le rôle de chaque fichier
 **Pensées** :
 
 **Lien(s) utile(s)** :
+
+- [Passing a parameter through a python filter function](https://stackoverflow.com/a/19550365)
