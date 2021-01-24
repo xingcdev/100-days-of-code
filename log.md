@@ -462,3 +462,11 @@ Regarder un tutoriel sur Gatsby pour comprendre le rôle de chaque fichier
 - [How to filter a list in Python](https://www.kite.com/python/answers/how-to-filter-a-list-in-python)
 
 - [How to get the first 2 letters of a string in Python?](https://stackoverflow.com/questions/20988835/how-to-get-the-first-2-letters-of-a-string-in-python)
+
+### Jour 43 : samedi 23.01.2021
+
+**Progrès** : Avancement de mon script Python pour télécharger les factures de Deliveroo
+
+**Pensées** : J'ai appris à faire la fonction anonyme avec `lamda`
+
+**Lien(s) utile(s)** :
