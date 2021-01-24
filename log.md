@@ -470,3 +470,11 @@ Regarder un tutoriel sur Gatsby pour comprendre le rôle de chaque fichier
 **Pensées** : J'ai appris à faire la fonction anonyme avec `lamda`
 
 **Lien(s) utile(s)** :
+
+### Jour 44 : dimanche 24.01.2021
+
+**Progrès** : Avancement de mon script Python pour télécharger les factures de Deliveroo
+
+**Pensées** :
+
+**Lien(s) utile(s)** :
