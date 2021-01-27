@@ -480,3 +480,21 @@ Regarder un tutoriel sur Gatsby pour comprendre le rôle de chaque fichier
 **Lien(s) utile(s)** :
 
 - [Passing a parameter through a python filter function](https://stackoverflow.com/a/19550365)
+
+https://www.jerriepelser.com/blog/sorting_out_gatsby-folder-structure/
+
+## Jour 45 : mercredi 25.01.2021
+
+**Progrès** : Remplacement de l'image GIF de la page d'accueil par une vidéo mp4
+
+**Pensées** : Je ne savais pas qu'une vidéo mp4 de quelques secondes est plus légère qu'une image GIF
+
+**Lien(s) utile(s)** :
+
+- [Replace animated GIFs with video for faster page loads](https://web.dev/replace-gifs-with-videos/)
+
+- [Working with Video - Gatsby](https://www.gatsbyjs.com/docs/how-to/images-and-media/working-with-video/)
+
+- [Kimi no na wa - Cinemagraphs](https://imgur.com/a/bl33J)
+
+- [Créer un background vidéo fullscreen avec HTML5](https://la-cascade.io/video-en-background/)
