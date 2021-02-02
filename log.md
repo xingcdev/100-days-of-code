@@ -498,3 +498,11 @@ https://www.jerriepelser.com/blog/sorting_out_gatsby-folder-structure/
 - [Kimi no na wa - Cinemagraphs](https://imgur.com/a/bl33J)
 
 - [Créer un background vidéo fullscreen avec HTML5](https://la-cascade.io/video-en-background/)
+
+## Jour 46 : mardi 02.02.2021
+
+**Progrès** : Avancement de mon script Python pour télécharger les factures de Deliveroo, rédaction de README.
+
+**Pensées** :
+
+**Lien(s) utile(s)** :
