@@ -506,3 +506,13 @@ https://www.jerriepelser.com/blog/sorting_out_gatsby-folder-structure/
 **Pensées** :
 
 **Lien(s) utile(s)** :
+
+## Jour 47 : samedi 14.02.2021
+
+**Progrès** : Création d'un script Rofi permettant d'éditer mes posts de mon blog
+
+**Pensées** : Je suis très content du résultat. Ça me permet de gagner un temps fou.
+
+**Lien(s) utile(s)** :
+
+- [link-name](link)
